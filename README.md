@@ -4,7 +4,8 @@
 ### [Live Site](https://brave-hoover-82ebc4.netlify.app/)
 
 
-![Yelpcamp Homepage](https://ibb.co/fr70PQF)
+![Grocery Hub Homepage](https://user-images.githubusercontent.com/76640086/120078694-59f5a980-c0ce-11eb-9a24-3b4188104ea1.png)
+
 
 ## Introduction
 This is a code repository for the **Grocery Hub**. 
