@@ -1,4 +1,4 @@
-# grocery-hub
+# Grocery Hub
 
 
 ### [Live Site](https://brave-hoover-82ebc4.netlify.app/)
